@@ -1,16 +1,46 @@
-### Hi there 👋
+<p align="right">
+  <p align="center" style="font-size:25px;"><strong>Hi, I’m Sam 👋 Weclome to my Github Page!</strong></p>
+  <p align="center">
+      I’m an Electrical Engineer and Data Scientist </br>
+      Columbia University and Rice University
+      
+      Here's some of my interests:
 
-<!--
-**sdb2174/sdb2174** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+      - 📈 Machine Learning 
+      - ♟️ Artificial Intelligence
+      - 🎮 Reinforcement Learning
+      - 📻 Digital Signal Processing 
+      - 📊 Big Data Analytics
+  </p>
+  
+</p>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+python
+#!/usr/bin/python
+class Engineer:
+    def __init__(self):
+        self.name         = "Sam Brosh"
+        self.role         = "Electrical + ML Engineer"
+        self.contact      = "sdb2174@columbia.edu"
+        self.education    = {
+                            "University of Maryland, Baltimore County": "BS Computer Engineering",
+                            "Columbia University": "MS Electrical Engineering",
+                            }
+        self.skills       = ["Deep Learning", "Reinforcement Learning", "AI",
+                            "Machine Learning", "Algorithms", "Big Data Analytics", 
+                            "Signal Processing"]
+        self.connect      = "https://www.linkedin.com/in/andrewhsuxavier/"
+    
+    def getHistory():
+        return "Baltimore->NewYork"
+me = Engineer()
+
+<p align="center"><strong>
+    🔽 Featured Project: <a href="https://github.com/sdb2174/ML-Bike-Break"></a> 🔽
+    </strong>
+</p>
+
+<p align="center">
+  Visitors :</br>
+</p>
