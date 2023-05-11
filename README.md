@@ -37,10 +37,11 @@ class Engineer:
 me = Engineer()
 ```
 <p align="center"><strong>
-    🔽 Featured Project: <a href="https://github.com/sdb2174/ML-Bike-Break"></a> 🔽
+    🔽 Featured Project: <a href="https://github.com/Qulxis/ML-Bike-Break"></a> 🔽
     </strong>
 </p>
 
 <p align="center">
   Visitors :</br>
+  <img src="https://profile-counter.glitch.me/sdb2174/count.svg
 </p>
