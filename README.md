@@ -37,7 +37,8 @@ class Engineer:
 me = Engineer()
 ```
 <p align="center"><strong>
-    🔽 Featured Project: <a href="https://github.com/Qulxis/ML-Bike-Break"></a> 🔽
+    🔽 Featured Project: 🔽
+    <a href="https://github.com/Qulxis/ML-Bike-Break"></a>
     </strong>
 </p>
 
